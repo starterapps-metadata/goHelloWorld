@@ -1,0 +1,64 @@
+{
+	"name" : "Go",
+	"services" : [],
+	"type" : "web",
+	"version" : "1.6.2",
+	"description" : "A simple Go application that will get you up and running quickly.",
+	"smallIcon" : "i_go_24.png",
+	"icon" : "i_go_32.png",
+	"largeIcon" : "i_go_50.png",
+	"featuredIcon" : "i_go_64.png",
+	"buildpack" : "go_buildpack",
+	"system_tags" : ["ibm_community"],
+	"categories" : ["runtime"],
+	"metadata" : {
+		"termsUrl" : "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+	},
+	"source" : {
+		"scmType" : "git",
+		"url" : "https://github.com/starterapps-metadata/goHelloWorld.git",
+		"appPath" : "app"
+	},
+	"docURL" : "/#starters/go/index.html",
+	"extra" : {
+		"i18n" : {
+			"de" : {
+				"name" : "Go",
+				"description" : "Eine einfache Go-Anwendung, mit deren Hilfe Sie ohne zeitliche Verzögerungen mit Ihrer Arbeit beginnen können."
+			},
+			"es" : {
+				"name" : "Go",
+				"description" : "Una sencilla aplicación Go que podrá configurar y ejecutar rápidamente."
+			},
+			"fr" : {
+				"name" : "Go",
+				"description" : "Application Go simple qui permet une mise en route rapide. "
+			},
+			"it" : {
+				"name" : "Go",
+				"description": "Una semplice applicazione Go che vi consentirà di essere subito operativi."
+			},
+			"ja" : {
+				"name" : "Go",
+				"description" : "素早く実行することができるシンプルな Go アプリケーション。"
+			},
+			"pt-BR" : {
+				"name" : "Go",
+				"description" : "Um aplicativo Go simples que permitirá que você o execute rapidamente."
+			},
+			"zh-Hans" : {
+				"name" : "Go",
+				"description" : "简单的 Go 应用程序，您可快速开始并运行。"
+			},
+			"zh-Hant" : {
+				"name" : "Go",
+				"description" : "簡單的 Go 應用程式，它將讓您快速開始運作。"
+			},
+			"ko": {
+				"name": "Go",
+				"description": "빠르게 시작하고 실행할 수 있는 간단한 Go 애플리케이션입니다. "
+			}
+		}
+	}
+
+}
