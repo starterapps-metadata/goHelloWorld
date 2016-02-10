@@ -3,7 +3,7 @@
 	"services" : [],
 	"type" : "web",
 	"version" : "1.6.2",
-	"description" : "A simple Go application that will get you up and running quickly.",
+	"description" : "Develop, deploy, and scale Go web apps with ease.",
 	"smallIcon" : "i_go_24.png",
 	"icon" : "i_go_32.png",
 	"largeIcon" : "i_go_50.png",
