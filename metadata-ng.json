@@ -19,7 +19,7 @@
 		"url" : "https://github.com/starterapps-metadata/goHelloWorld.git",
 		"appPath" : "app"
 	},
-	"docURL" : "/#starters/go/index.html",
+	"docURL" : "/#runtimes/go/index.html",
 	"extra" : {
 		"i18n" : {
 			"de" : {
