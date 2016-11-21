@@ -8,7 +8,6 @@
 	"icon" : "i_go_32.png",
 	"largeIcon" : "i_go_50.png",
 	"featuredIcon" : "i_go_64.png",
-	"buildpack" : "go_buildpack",
 	"system_tags" : ["ibm_community"],
 	"categories" : ["runtime"],
 	"metadata" : {
