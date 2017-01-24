@@ -1,0 +1,5 @@
+---
+applications:
+- name: sample-go-helloworld
+  random-route: true
+  memory: 128M
