@@ -9,6 +9,6 @@ This application demonstrates a simple, reusable Go web application.
 1. [Install Go][]
 + cd into this project's root directory
 + Run `go run app.go`
-+ Access the running app in a browser at http://localhost:8080
++ Access the running app in a browser at [http://localhost:8080]()
 
 [Install Go]: https://golang.org/doc/install
