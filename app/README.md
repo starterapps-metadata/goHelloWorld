@@ -2,8 +2,6 @@
 
 This application demonstrates a simple, reusable Go web application.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/go-helloworld)
-
 ## Run the app locally
 
 1. [Install Go][]
