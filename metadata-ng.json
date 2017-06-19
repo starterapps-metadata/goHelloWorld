@@ -2,7 +2,7 @@
 	"name" : "Go",
 	"services" : [],
 	"type" : "web",
-	"version" : "1.7.5",
+	"version" : "1.7.18",
 	"description" : "Develop, deploy, and scale Go web apps with ease.",
 	"smallIcon" : "i_go_24.png",
 	"icon" : "i_go_32.png",
